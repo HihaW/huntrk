@@ -17,8 +17,8 @@ Pastikan sistem Linux Anda memenuhi persyaratan berikut sebelum menjalankan scri
 
 # 🚀 Cara Penggunaan
 Clone repositori ini ke dalam direktori lokal Anda:
-'''bash
+```bash
 git clone https://github.com/HihaW/huntrk.git
 cd huntrk
 sudo python3 huntrk.py
-'''
+```
