@@ -17,7 +17,7 @@ Pastikan sistem Linux Anda memenuhi persyaratan berikut sebelum menjalankan scri
 
 # 🚀 Cara Penggunaan
 Clone repositori ini ke dalam direktori lokal Anda:
-git clone https://github.com
+git clone https://github.com/HihaW/huntrk
 cd huntrk
 Jalankan script dengan hak akses superuser:
 sudo python3 huntrk.py
