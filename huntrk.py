@@ -146,8 +146,8 @@ def hunt_system():
 
 if __name__ == "__main__":
     if os.geteuid() != 0:
-        print("[-] Error: Proyek ini membutuhkan hak akses Root Linux.")
-        print("[*] Silakan jalankan ulang menggunakan perintah: sudo python3 pro_hunter.py")
+        print("[-] Error: Proyek ini membutuhkan hak akses Root.")
+        print("[*] Silakan jalankan ulang menggunakan perintah: sudo python3 huntrk.py")
         sys.exit(1)
         
     hunt_system()
